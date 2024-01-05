@@ -11,7 +11,7 @@ SSH romain@172.16.223.129
 Afin de pouvoir exploiter les fichiers disponibles sur GitHub, nous avons procédé à l'installation de Docker en suivant les instructions détaillées sur le lien suivant : https://docs.docker.com/engine/install/ubuntu/
 Cette première étape cruciale nous a permis de préparer notre environnement pour la suite du projet.
 
-Suite à l'installation de Docker, nous avons également installé le plugin Compose en suivant les directives spécifiées dans la documentation : hYps://docs.docker.com/compose/install/linux/#install-using-the-repository
+Suite à l'installation de Docker, nous avons également installé le plugin Compose en suivant les directives spécifiées dans la documentation : https://docs.docker.com/compose/install/linux/#install-using-the-repository
 Cette étape a été essentielle pour la gestion des services et la configuration de l'ensemble de notre application.
 
 De même, nous avons créé un répertoire et ensuite, nous avons procédé au clonage du projet à partir du référentiel GitHub du professeur. Le clonage a été réalisé en utilisant la commande git clone suivie de l'URL du référentiel.
